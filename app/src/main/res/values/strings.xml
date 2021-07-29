@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">FHD Wallpaper X</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_detail_image">DetailImageActivity</string>
+    <string name="title_activity_list_image">ListImageActivity</string>
+    <string name="categories">Categories</string>
+    <string name="adult">Adult</string>
+    <string name="newest">Newest</string>
+
+<!--    product-->
+    <string name="app_id">ca-app-pub-4589165627682659~1380722325</string>
+    <string name="admod_id_banner_1">ca-app-pub-4589165627682659/2310660619</string>
+    <string name="admod_id_banner_2">ca-app-pub-4589165627682659/8943225997</string>
+    <string name="admod_id_interstitial_1">ca-app-pub-4589165627682659/2119088924</string>
+    <string name="admod_id_interstitial_2">ca-app-pub-4589165627682659/4306268561</string>
+    <string name="admod_id_native">ca-app-pub-4589165627682659/7104177515</string>
+
+    <!--    test-->
+<!--    <string name="app_id">ca-app-pub-3940256099942544~3347511713</string>-->
+<!--    <string name="admod_id_banner">ca-app-pub-4589165627682659/7984326560</string>-->
+<!--    <string name="admod_id_interstitial_1">ca-app-pub-3940256099942544/1033173712</string>-->
+<!--    <string name="admod_id_interstitial_2">ca-app-pub-3940256099942544/1033173712</string>-->
+<!--    <string name="admod_id_native">ca-app-pub-3940256099942544/2247696110</string>-->
+
+    <string name="no_ads">Upgrade to Premium</string>
+    <string name="policy">Private Policy</string>
+    <string name="more_app">More Apps</string>
+    <string name="rating">Rate Us</string>
+    <string name="share">Share</string>
+    <string name="facebook">Facebook</string>
+    <string name="instagram">Instagram</string>
+    <string name="twitter">Twitter</string>
+    <string name="pinterest">Pinterest</string>
+    <string name="restart">Restart App</string>
+
+    <string name="default_notification_channel_id" translatable="false">default_notification_channel_id</string>
+    <string name="default_notification_channel_name" translatable="true">WallpaperX</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+    <string name="fcm_message">New Wallpaper</string>
+</resources>

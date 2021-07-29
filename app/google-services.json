@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "617636997939",
+    "firebase_url": "https://social-97775.firebaseio.com",
+    "project_id": "social-97775",
+    "storage_bucket": "social-97775.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617636997939:android:c13fdfa7e5d311f48fac46",
+        "android_client_info": {
+          "package_name": "com.leoo.hdwallpaperx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617636997939-ks3l0ugoj7uocggbnk4vkj0mfg83qkip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leoo.hdwallpaperx",
+            "certificate_hash": "199c8a419970aac1a837d5839863a57695b6c4b9"
+          }
+        },
+        {
+          "client_id": "617636997939-gek3jbc3nctpjksa0s9kllioqjbt810g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA42L9mw5PVHCUZdooA70UBEHRFF14eFfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617636997939-gek3jbc3nctpjksa0s9kllioqjbt810g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4589165627682659~1380722325"
+    }
+  ],
+  "configuration_version": "1"
+}
